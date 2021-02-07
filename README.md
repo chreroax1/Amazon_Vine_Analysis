@@ -8,7 +8,7 @@ The purpose of this project is to pick one of these datasets and use PySpark to 
 ## Results
 Vine Summary Dataframe: 
 ![Vine_Summary](./Reviews/Vine_Reviews.png)
-![non-Vine_Summary](./Reviews/non-Vine_Reviews.png
+![non-Vine_Summary](./Reviews/non-Vine_Reviews.png)
 
 How many Vine reviews and non-Vine reviews were there?
 > There were 170 Vine reviews and 37,840 non-Vine reviews. 
